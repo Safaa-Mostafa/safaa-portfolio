@@ -1,6 +1,7 @@
 app = "safaa-portfolio"
 
 [build]
+builder = "heroku/buildpacks:20"
 
 [env]
 PORT = "3000"
