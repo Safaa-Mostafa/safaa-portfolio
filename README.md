@@ -7,7 +7,7 @@ Welcome to my personal portfolio website.
 This project is built to showcase my software engineering skills, technical experience, and selected projects in a clean and professional way.
 
 🔗 **Live Website:**  
-https://safaa-portfolio.fly.dev/
+https://safaa-portfolio-seven.vercel.app/
 
 ## 🔧 Technologies Used
 
